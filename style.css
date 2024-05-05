@@ -2,3 +2,6 @@ h1{
     color: darkblue;
     font-family: monospace;
 }
+body{
+    background-color: darkgray;
+}
